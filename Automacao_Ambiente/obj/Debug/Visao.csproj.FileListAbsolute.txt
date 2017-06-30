@@ -1,0 +1,39 @@
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Visao.csproj.GenerateResource.Cache
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Automacao_Ambiente.frmCadastro.resources
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Automacao_Ambiente.frmInicio.resources
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\bin\Debug\Visao.pdb
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\bin\Debug\Controle.dll
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\bin\Debug\Controle.pdb
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\bin\Debug\Controle.dll.config
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Visao.Properties.Resources.resources
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Visao.pdb
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\bin\Debug\Visao.exe.config
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\bin\Debug\Visao.exe
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Automacao_Ambiente\obj\Debug\Visao.exe
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Automacao_Ambiente.frmCadastro.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Automacao_Ambiente.frmInicio.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Visao.exe
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\obj\Debug\Visao.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\bin\Debug\Visao.exe.config
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\bin\Debug\Visao.exe
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\bin\Debug\Visao.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\bin\Debug\Controle.dll
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\bin\Debug\Controle.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Automacao_Ambiente\bin\Debug\Controle.dll.config
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\bin\Debug\Visao.exe.config
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\bin\Debug\Visao.exe
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\bin\Debug\Visao.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\bin\Debug\Controle.dll
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\bin\Debug\Controle.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\bin\Debug\Controle.dll.config
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Automacao_Ambiente.frmCadastro.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Automacao_Ambiente.frmInicio.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Visao.exe
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Automacao_Ambiente\obj\Debug\Visao.pdb

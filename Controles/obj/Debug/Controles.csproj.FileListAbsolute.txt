@@ -1,0 +1,3 @@
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controles\obj\Debug\Controles.Properties.Resources.resources
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache

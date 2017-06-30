@@ -1,0 +1,24 @@
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\obj\Debug\Controle.Properties.Resources.resources
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\bin\Debug\Controle.dll.config
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\bin\Debug\Controle.dll
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\bin\Debug\Controle.pdb
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\obj\Debug\Controle.dll
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\obj\Debug\Controle.pdb
+c:\users\luis_\documents\visual studio 2017\Projects\Automacao_Ambiente\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\bin\Debug\Controle.dll.config
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\bin\Debug\Controle.dll
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\bin\Debug\Controle.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\obj\Debug\Controle.Properties.Resources.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\obj\Debug\Controle.dll
+C:\Users\luis_\Desktop\Automacao_Ambiente6\Controle\obj\Debug\Controle.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\bin\Debug\Controle.dll.config
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\bin\Debug\Controle.dll
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\bin\Debug\Controle.pdb
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\obj\Debug\Controle.Properties.Resources.resources
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\obj\Debug\Controle.dll
+C:\Users\luis_\Desktop\Automacao_Ambiente8\Controle\obj\Debug\Controle.pdb
